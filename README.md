@@ -1,2 +1,3 @@
-# Plucking-Mangoes_C-28
-Created by Anunit Rampurkar
+This is my project of class C-28
+Hope you will like this...😊
+- Anunit Rampurkar
